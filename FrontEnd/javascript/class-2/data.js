@@ -1,0 +1,16 @@
+let data;
+console.log(typeof data);
+let num=50;
+let decimal_no=1.001;
+console.log(typeof num);
+console.log(typeof decimal_no);
+let num1=100;
+let num2=125;
+let addition=num1+num2;
+console.log(addition);
+let substraction=num1-num2;
+console.log(substraction);
+let division=num1/num2;
+console.log(division);
+let multiplication=num1*num2;
+console.log(multiplication);
